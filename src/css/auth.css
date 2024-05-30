@@ -1,0 +1,17 @@
+.billing_title span .Click-login {
+  color: var(--ambed-base, #a47c68);
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+.billing_title span .Click-login:hover {
+  color: var(--ambed-black, #3c3531);
+}
+.Forgot-Password span {
+  color: var(--ambed-base, #a47c68);
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.Forgot-Password span:hover {
+  color: var(--ambed-black, #3c3531);
+}
